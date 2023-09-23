@@ -1,0 +1,25 @@
+/* Navbar styles */
+.navbar {
+    background-color: #333; /* Change the background color as needed */
+    color: #fff; /* Change the text color as needed */
+    padding: 10px 0; /* Adjust the padding as needed */
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* Navigation links styles */
+  .navbar a {
+    text-decoration: none;
+    color: #fff; /* Change link text color as needed */
+    margin-right: 10px; /* Adjust spacing between links as needed */
+  }
+  
+  /* Hover effect for navigation links */
+  .navbar a:hover {
+    text-decoration: underline; /* Add underline on hover or adjust as needed */
+  }
+  
+  

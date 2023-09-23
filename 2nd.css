@@ -1,0 +1,156 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.img-1{
+    width:30px;
+    margin-left:15px;
+    padding-bottom:15px;
+}
+.conc-1{
+     display:flex;
+     padding-bottom:35px;
+}
+.first-part{
+     padding-top:10px;
+}
+.container-1{
+     border: 1px solid red;
+     height:55px;
+     width:75px;
+     border-radius:10px;
+     background-color:white;
+     margin-left:15px;
+}
+.img-2{
+     width:60px;
+}
+.img-3{
+     width:60px;
+}
+.header-1{
+     font-family:arial;
+     margin-left:15px;
+}
+.airtel-1{
+     font-family:arial;
+     font-size:9px;
+     margin-top:-1px;
+     margin-left:20px;
+}
+.img-2{
+     width:20px;
+     margin-left:25px;
+     padding-top:3px;
+}
+.container-2{
+     border: 1px solid yellow;
+     height:55px;
+     width:75px;
+     border-radius:10px;
+     background-color:white;
+     margin-left:10px;
+}
+.mtn-1{
+     font-family:arial;
+     font-size:9px;
+     margin-top:-1px;
+     margin-left:25px;
+}
+.img-4{
+     width:20px;
+     margin-left:25px;
+     padding-top:3px;
+     
+}
+.container-3{
+     border: 1px solid green;
+     height:55px;
+     width:75px;
+     border-radius:10px;
+     background-color:white;
+     margin-left:10px;
+}
+.img-5{
+     width:20px;
+     margin-left:25px;
+     padding-top:3px;
+}
+.glo-1{
+     font-family:arial;
+     font-size:9px;
+     margin-top:-1px;
+     margin-left:25px;
+}
+.container-4{
+     border: 1px solid black;
+     height:55px;
+     width:75px;
+     border-radius:10px;
+     background-color:white;
+     margin-left:10px;   
+}
+.img-6{
+     width:20px;
+     margin-left:25px;
+     padding-top:3px;
+}
+.mobile-2{
+     font-family:arial;
+     font-size:9px;
+     margin-top:-1px;
+     margin-left:20px;
+}
+.label-1{
+     margin-left:15px;
+     font-family:arial;
+}
+.input-1{
+     margin-top:15px;
+     margin-left:15px;
+     width: 330px;
+     padding: 10px;
+     height:50px;
+     border: 1px solid #f0eee9;
+     border-radius: 5px;
+     background-color:#f0eee9;  
+     font-family:arial;
+     
+}
+.first{
+     padding-bottom:10px;
+}
+.second{
+     padding-bottom:10px;
+}
+.label-2{
+     margin-left:15px;
+     font-family:arial;
+     padding-bottom:10px;
+}
+.input-2{
+     margin-top:15px;
+     margin-left:15px;
+     width: 330px;
+     padding: 10px;
+     height:50px;
+     border: 1px solid #f0eee9;
+     border-radius: 5px;
+     background-color:#f0eee9;  
+     font-family:arial;
+     
+}
+.button-style{
+     font-size:20px;
+     font-family:Arial;
+     background-color:#82e362;
+     height:55px;
+     width:330px;
+     margin-left:15px;
+     border-radius:10px;
+     color:white;
+}
+.button-style:hover{
+    background-color:green;
+}

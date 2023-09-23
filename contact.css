@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Universal styles for all screen sizes */
+  
+  /* Navbar styles */
+  .navbar {
+    background-color: rgb(134, 47, 47);
+    color: black;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: -5%;
+    margin-left: 40%;
+    position: fixed;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: black;
+    margin: 2.8%;
+    display: inline-block;
+  }
+  
+  .navbar a:hover {
+    color: #f15663;
+  }
+  
+  /* Image styles */
+  .img-1 {
+   
+    width: 5%;
+    height: auto;
+    display: flex;
+    margin-left: 17%;
+    margin-top:30px;
+  }

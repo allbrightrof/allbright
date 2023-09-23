@@ -1,0 +1,52 @@
+body{
+    font-family:Arial;
+    background-color:rgb(17, 218, 151);
+    margin-bottom:150px;
+    margin-top:100px;
+    }
+    .over-all{
+    padding-top:20px;
+    padding-bottom:40px;
+    background-color:white;
+    height:800px;
+    margin-bottom:60px;
+    width: 600PX;
+    margin-left: 350px;
+    }
+    
+    .button-style{
+    font-size:20px;
+    font-family:Arial;
+    background-color:rgb(17, 218, 151);
+    height:55px;
+    width:550px;
+    margin-left:28px;
+    border-radius:10px;
+    color:white;
+    cursor:pointer;
+    }
+    
+    .dev-rofiq{
+    margin-left:20px;
+    }
+    .header-dev{
+    color:rgba(160,152,139,0.91);
+    margin-left:20px;
+    }
+    .header-choose{
+    margin-left:15px;
+    margin-bottom:10px;
+    }
+    .input-1{
+    height:40px;
+    width:550px;
+    margin-left:15px;
+    margin-bottom:10px;
+    }
+    .input-2{
+        height:40px;
+        width:550px;
+        margin-left:15px;
+        margin-bottom:50px;
+        
+    }
